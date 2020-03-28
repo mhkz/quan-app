@@ -1,0 +1,177 @@
+{
+  "id": "1704432",
+  "name": "man",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13555740",
+      "name": "设置2",
+      "font_class": "shezhi",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "13555741",
+      "name": "设置",
+      "font_class": "shezhi1",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "13555742",
+      "name": "商店2",
+      "font_class": "shangdian",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "13555743",
+      "name": "商店",
+      "font_class": "shangdian1",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "13555760",
+      "name": "Wifi2",
+      "font_class": "Wifi",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "13555764",
+      "name": "Wifi",
+      "font_class": "Wifi1",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "13555765",
+      "name": "电话2",
+      "font_class": "dianhua",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "13555767",
+      "name": "电话",
+      "font_class": "dianhua1",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "13555473",
+      "name": "信息2",
+      "font_class": "xinxi",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "13555474",
+      "name": "信息",
+      "font_class": "xinxi1",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "13555487",
+      "name": "文件2",
+      "font_class": "wenjian",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "13555488",
+      "name": "文件",
+      "font_class": "wenjian1",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "13555506",
+      "name": "图片2",
+      "font_class": "tupian",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "13555517",
+      "name": "图片",
+      "font_class": "tupian1",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "13555525",
+      "name": "收藏2",
+      "font_class": "shoucang",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "13555528",
+      "name": "收藏",
+      "font_class": "shoucang1",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "13555529",
+      "name": "相机2",
+      "font_class": "xiangji",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "13555532",
+      "name": "相机",
+      "font_class": "xiangji1",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "13555553",
+      "name": "时钟2",
+      "font_class": "shizhong",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "13555556",
+      "name": "时钟",
+      "font_class": "shizhong1",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "13555568",
+      "name": "联系人2",
+      "font_class": "lianxiren",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "13555569",
+      "name": "联系人",
+      "font_class": "lianxiren1",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "13555574",
+      "name": "地址2",
+      "font_class": "dizhi",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "13555575",
+      "name": "地址",
+      "font_class": "dizhi1",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    }
+  ]
+}
