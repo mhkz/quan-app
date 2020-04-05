@@ -7,7 +7,7 @@ import './plugins/element.js'
 
 import '../src/assets/styles/reset.scss'
 import '../src/assets/styles/iconfont.scss'
-
+import "../src/assets/styles/override-element-ui.scss" // 饿了么样式覆盖
 
 Vue.config.productionTip = false
 

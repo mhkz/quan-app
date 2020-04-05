@@ -1,12 +1,12 @@
 <template>
     <el-row>
-        <router-view></router-view>
+        书籍管理
     </el-row>
 </template>
 
 <script>
     export default {
-        name: "Book",
+        name: "Manage"
     }
 </script>
 
